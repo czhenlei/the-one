@@ -15,3 +15,7 @@ doc/package-list
 .project
 /target/
 .settings/org.eclipse.*
+
+# Mac hides files
+.DS_Store
+
